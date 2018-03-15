@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\bin\Debug\Лабиринт.exe.config
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\bin\Debug\Лабиринт.exe
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\bin\Debug\Лабиринт.pdb
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormMenu.resources
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.Properties.Resources.resources
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.exe
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.pdb
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel1.resources
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel2.resources
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel3.resources
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel4.resources
+C:\Users\User\Desktop\Программирование\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel5.resources
+C:\Users\User\Desktop\ХЕРНЯ ДЛЯ УЧЕБЫ\Летняя практика\Лабиринт\Лабиринт\bin\Debug\Лабиринт.exe.config
+C:\Users\User\Desktop\ХЕРНЯ ДЛЯ УЧЕБЫ\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.exe
+C:\Users\User\Desktop\ХЕРНЯ ДЛЯ УЧЕБЫ\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.pdb
+C:\Users\Admin\Desktop\ХЕРНЯ ДЛЯ УЧЕБЫ\Летняя практика\Лабиринт\Лабиринт\bin\Debug\Лабиринт.exe.config
+C:\Users\Admin\Desktop\ХЕРНЯ ДЛЯ УЧЕБЫ\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.exe
+C:\Users\Admin\Desktop\ХЕРНЯ ДЛЯ УЧЕБЫ\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.pdb
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.csprojResolveAssemblyReference.cache
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormMenu.resources
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel1.resources
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel2.resources
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel3.resources
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel4.resources
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.FormLevel5.resources
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.Properties.Resources.resources
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.csproj.GenerateResource.Cache
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.csproj.CoreCompileInputs.cache
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.exe
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\obj\Debug\Лабиринт.pdb
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\bin\Debug\Лабиринт.exe.config
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\bin\Debug\Лабиринт.exe
+E:\Учебное\Летняя практика\Лабиринт\Лабиринт\bin\Debug\Лабиринт.pdb
